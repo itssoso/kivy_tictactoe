@@ -14,5 +14,5 @@ pyflakes==2.1.1
 Pygments==2.3.1
 requests==2.21.0
 sh==1.12.14
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.4.3
